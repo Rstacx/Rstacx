@@ -17,20 +17,20 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips():
+class Raveesh Nilaweera():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Raveesh Nilaweera";
+    self.username = "Rstacx";
+    self.location = "Matara, Sri lanka";
+    self.twitter = "@RaveeshNilawee";
+    self.web = "https://raveesh.tech";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = Rstacx()
 ```
 
 <div align="center">
@@ -58,5 +58,5 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rstacx&custom_title=Raveesh%20Nilaweera%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://raveesh.tech)
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rstacx&custom_title=Raveesh%20Nilaweera's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://raveesh.tech)
 
