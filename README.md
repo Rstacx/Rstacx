@@ -2,7 +2,7 @@
   <b>Raveesh Nilaweera</b>
 </h1>
 
-[![Braydon's GitHub Banner](./GitHubHeader.png)]([https://rstacx.github.io/]())
+// [![Braydon's GitHub Banner](./GitHubHeader.png)]([https://rstacx.github.io/]())
 
 
 Heya! I'm Raveesh Nilaweera. a student currently living in Matara, Sri lanka. I'm preparing for 
