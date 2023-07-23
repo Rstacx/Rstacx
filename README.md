@@ -1,4 +1,4 @@
-<h3 align="center">I am a full stack web developer and a musical artist living in Sri Lanka</h3>
+<h3 align="center">I am a full stack web developer and a musical artist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rstacx&label=Profile%20views&color=0e75b6&style=flat" alt="rstacx" /> </p>
 
